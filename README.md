@@ -18,7 +18,9 @@ This time, I have made an Auto regressive model of Volkswagen group stock ($VWAG
 
 ![Test image1](https://github.com/altheanabila/VWAGY-Stock-Analysis-using-AR-Method/blob/main/vwagy3.png)
 
-![Test image1] https://github.com/altheanabila/VWAGY-Stock-Analysis-using-AR-Method/blob/main/vwagy4.png
+![Test image1] (https://github.com/altheanabila/VWAGY-Stock-Analysis-using-AR-Method/blob/main/vwagy4.png)
+
+
 
 4. we use AR model to create a model in residual values, and to create future forecasted residual values
 
@@ -34,6 +36,8 @@ This time, I have made an Auto regressive model of Volkswagen group stock ($VWAG
 5. then we used forecasted residual values to be added to predictive residual model
 
 ![Test image1](https://github.com/altheanabila/VWAGY-Stock-Analysis-using-AR-Method/blob/main/vwagy6.png)
+
+
 
 6. Visualize the result
 
