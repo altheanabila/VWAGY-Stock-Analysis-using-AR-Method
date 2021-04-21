@@ -9,7 +9,7 @@ This time, I have made an Auto regressive model of Volkswagen group stock ($VWAG
 
 2. We use Autoregressive model to obtain the forecasted values
 
-![Test image1](https://github.com/altheanabila/VWAGY-Stock-Analysis-using-AR-Method/commit/739298ae33edef8440d834a6e6e588744512f457)
+![Test image1](https://github.com/altheanabila/VWAGY-Stock-Analysis-using-AR-Method/blob/main/vwagy1.png)
 
 
 3. and then we need to create residual values on forecasted values, and define test_y prediction
