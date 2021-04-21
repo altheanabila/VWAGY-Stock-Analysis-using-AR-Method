@@ -12,13 +12,14 @@ This time, I have made an Auto regressive model of Volkswagen group stock ($VWAG
 ![Test image1](https://github.com/altheanabila/VWAGY-Stock-Analysis-using-AR-Method/blob/main/vwagy1.png)
 
 
+
 3. and then we need to create residual values on forecasted values, and define test_y prediction
 
 ![Test image1](https://github.com/altheanabila/VWAGY-Stock-Analysis-using-AR-Method/blob/main/vwagy2.png)
 
 ![Test image1](https://github.com/altheanabila/VWAGY-Stock-Analysis-using-AR-Method/blob/main/vwagy3.png)
 
-![Test image1] (https://github.com/altheanabila/VWAGY-Stock-Analysis-using-AR-Method/blob/main/vwagy4.png)
+![Test image1](https://github.com/altheanabila/VWAGY-Stock-Analysis-using-AR-Method/blob/main/vwagy4.png)
 
 
 
